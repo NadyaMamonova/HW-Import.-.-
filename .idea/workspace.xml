@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85555d89-739f-498e-b545-8ac4cb220fd0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HW «Import. Модуль. Пакет».iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/salary.py" afterDir="false" />
+    <list default="true" id="85555d89-739f-498e-b545-8ac4cb220fd0" name="Changes" comment="Initials commit">
+      <change afterPath="$PROJECT_DIR$/application/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/db/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/db/people.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/salary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/people.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/salary.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2jmqluJ6b2Xk7ETnBlTBEu80Ld2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -61,6 +61,30 @@
       <option name="presentableId" value="Default" />
       <updated>1722002754132</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initials commit">
+      <option name="closed" value="true" />
+      <created>1722003821855</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722003821855</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initials commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initials commit" />
   </component>
 </project>
